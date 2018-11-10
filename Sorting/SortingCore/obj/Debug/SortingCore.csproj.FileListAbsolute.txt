@@ -1,0 +1,12 @@
+C:\Users\Asmoderius\Desktop\Sorting\SortingCore\bin\Debug\SortingCore.dll
+C:\Users\Asmoderius\Desktop\Sorting\SortingCore\bin\Debug\SortingCore.pdb
+C:\Users\Asmoderius\Desktop\Sorting\SortingCore\obj\Debug\SortingCore.csprojAssemblyReference.cache
+C:\Users\Asmoderius\Desktop\Sorting\SortingCore\obj\Debug\SortingCore.csproj.CoreCompileInputs.cache
+C:\Users\Asmoderius\Desktop\Sorting\SortingCore\obj\Debug\SortingCore.dll
+C:\Users\Asmoderius\Desktop\Sorting\SortingCore\obj\Debug\SortingCore.pdb
+D:\Data\Sorting\SortingCore\bin\Debug\SortingCore.dll
+D:\Data\Sorting\SortingCore\bin\Debug\SortingCore.pdb
+D:\Data\Sorting\SortingCore\obj\Debug\SortingCore.csprojAssemblyReference.cache
+D:\Data\Sorting\SortingCore\obj\Debug\SortingCore.csproj.CoreCompileInputs.cache
+D:\Data\Sorting\SortingCore\obj\Debug\SortingCore.dll
+D:\Data\Sorting\SortingCore\obj\Debug\SortingCore.pdb
